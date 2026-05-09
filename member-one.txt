@@ -1,0 +1,13 @@
+
+
+Name: UMUKUNZI Sano Arsene
+
+Role: writing team goals
+
+One Git Skill Learned: Branch management and avoiding work on the main branch.
+
+Short Personal Statement:
+	I am a first-year undergraduate student at the University of Rwanda (UR-CST) with 
+	a strong interest in Mechatronics and Machine Learning. I enjoy solving 
+	technical problems through coding and am dedicated 
+	to mastering automation and smart systems.

@@ -1,0 +1,13 @@
+Team Goals for Embedded Systems and IoT Project
+
+1.Establish a seamless team workflow: We aim to combine our individual parts into one working system 
+  where everyone’s contributions fit together perfectly.
+
+2.Maintain an organized project history: Our goal is to keep our work tidy by writing clear, simple notes 
+  for every update so we can easily track our journey from start to finish.
+
+3.Create a user-friendly guide: We want to make sure our project is easy for anyone to understand by 
+  writing a clear description of how our smart device works.
+
+4.Build a reliable and functional solution: We are committed to working together to ensure our final product is stable, reliable, 
+  and successfully solves the problem we set out to address.
