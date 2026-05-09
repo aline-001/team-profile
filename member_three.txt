@@ -1,0 +1,23 @@
+
+
+NAME:
+Aline Asimwe
+
+ROLE IN TEAM:
+Repository Creation and README.md content
+
+GIT SKILLS LEARNED
+
+-Creating and switching branches using 'git checkout -b'
+-Staging changes with 'git add' and committing with 'git commit -m'
+-Pushing branches to GitHub and opening pull requests
+- Pulling latest changes from main branch with 'git pull'
+
+PERSONAL STATEMENT
+
+My name is Aline Asimwe, and this Git & GitHub assignment 
+has taught me what collaboration really means. now I understand the 
+importance of branches, pull requests, and code reviews. 
+Working with my teammates has been a great experience, and I 
+feel confident using Git for future group projects. I want 
+to continue improving my version control skills
