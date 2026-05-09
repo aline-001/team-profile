@@ -1,0 +1,10 @@
+ I am BYUKUSENGE Ezira, 
+an IoT student passionate about embedded systems, 
+networking, and modern software development. 
+I enjoy learning new technologies and improving my skills in Git,
+ programming, and system integration to build innovative and reliable solutions.
+ Especially i learnt git branch where you can work on another branch
+ instead working on main.
+ git branch // verify working branch
+ git branch ezira // create branch named ezira
+ git switch ezira // to work on ezira branch.
